@@ -1,8 +1,11 @@
+# chaudron_de_galaboudine
+
 ### Description
 
-A personal portofolio, designed using reactJS. Used to display and present all my projects as a web developer.
+Non-offical e-commerce website using ReactJS, designed to sell some skyrim merch.
 
-### Install
+
+### Install 
 
 Make sure that Node.JS and NPM are both installed on your device. You can now open a new terminal and use the command line : npm install -g create-react-app .
 
@@ -28,11 +31,11 @@ Project published by the peepoGalarope corp.
 For any contact, please use the peepoEmail@peepo.com email adress, or on discord under the name of "Galarope".
 
 
-### Project status
+### Project status 
 
 The project is still under development.
 
 
 ### Other
 
-Please notice that this project was first made to learn ReactJs, and it will be used to find a job as a web developer (well, atleast I hope so). Do not hesitate to give any feedback, I would really appreciate it.
+Please notice that all of this website is non official. This project is made only to learn how to use reactJS, and to develop my skills as a developer. There are no real products. This is just a skyrim fan, trying to become a better developer!
